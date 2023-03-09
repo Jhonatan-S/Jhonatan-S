@@ -1,5 +1,5 @@
-### Olá, eu sou o Jhonatan 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1606f0size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhonatan+Santana;Tenho+25+anos;Atualmente+estou+cursanso+Análise+e+desenvolvimento+de+sistemas;Sejá+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+##
 
 - 🔭 Atualmente estou buscando uma oportunidade de front-end
 - 🌱 Atualmente estou aprendendo full-stack JavaScript
@@ -43,4 +43,6 @@ Estou aprendendo
 
 ##
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jhonatan-S&bg_color=0d1117&color=1606f0&line=e03030&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
