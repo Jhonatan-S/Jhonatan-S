@@ -48,5 +48,6 @@ Contato e redes sociais
 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jhonatan-S&bg_color=0d1117&color=1606f0&line=e03030&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
