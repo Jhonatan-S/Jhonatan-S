@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1606f0size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhonatan+Santana;Tenho+25+anos;Atualmente+estou+cursanso+Análise+e+desenvolvimento+de+sistemas;Sejá+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1606f0size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhonatan+Santana;Tenho+25+anos;Atualmente+estou+cursando+Análise+e+desenvolvimento+de+sistemas;Sejá+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 ##
 
 - 🔭 Atualmente estou buscando uma oportunidade de front-end
