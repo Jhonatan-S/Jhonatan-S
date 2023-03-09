@@ -1,6 +1,5 @@
-### Olá, eu sou o Jhonatan Santana 👋
+### Olá, eu sou o Jhonatan 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou buscando uma oportunidade de front-end
 - 🌱 Atualmente estou aprendendo full-stack JavaScript
