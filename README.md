@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1606f0&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1606f0size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhonatan+Santana;Tenho+25+anos+e+atualmente+estou+cursando+Análise+e+desenvolvimento+de+sistemas;Sejá+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1606f0size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhonatan+Santana;Seja+bem+vindo(a)+ao+meu+github!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -18,8 +18,7 @@ Melhores tecnologias <3
   <img align="center" alt="Jhon-bootsrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
    <img align="center" alt="Jhon-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhon-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhon-Python" height="50" width="60" src="![image](https://github.com/Jhonatan-S/Jhonatan-S/assets/111611787/fd56d0cf-ea3f-4dac-9bbd-bbf503e1453a)
-">
+ 
   
 
 </div>
