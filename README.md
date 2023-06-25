@@ -5,8 +5,7 @@
 
 ##
 
-- 🔭 Atualmente estou buscando uma oportunidade de front-end
-- 🌱 Atualmente estou aprendendo full-stack JavaScript
+- 🌱 Desenvolvedor flutter
 - ⚡ Curiosidade: Toco violão e teclado
 
 ## 
