@@ -26,13 +26,6 @@ Melhores tecnologias <3
 </div>
   
 ##
-Estou aprendendo
- <div style="display: inline_block"><br>
-  <img align="center" alt="Jhon-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  
-</div>
-
-##
 Contato e redes sociais
 <div> 
   <a href = "mailto:jhonatan.job8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
