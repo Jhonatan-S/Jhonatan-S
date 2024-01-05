@@ -32,7 +32,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-S&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jhonatan Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-S&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 ##
+
 Contato e redes sociais
 <div> 
   <a href = "mailto:jhonatan.job8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,14 +44,5 @@ Contato e redes sociais
 </div>
 
 ##
-
-<div>
-  <a href="https://github.com/Jhonatan-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-S&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-##
-
 
 ![Snake animation](https://github.com/Jhonatan-S/Jhonatan-S/blob/output/github-contribution-grid-snake.svg)
