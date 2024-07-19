@@ -6,12 +6,16 @@
 ##
 
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&logoColor=white)&nbsp;
+![Context API](https://img.shields.io/badge/-Context_API-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=white)&nbsp;
+![SEO](https://img.shields.io/badge/-SEO-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=white)&nbsp;
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
